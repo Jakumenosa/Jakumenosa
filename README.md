@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jakumenosa</h1>
-<h3 align="center">A beginner frontend developer from Indonesia</h3>
+<h1 align="left">😸Meno-San</h1>
+
+**`Beginner Front End Developer`**
+
+<p align='left'>I'm an Indonesian People who loves Internet</p> 
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
